@@ -1,5 +1,7 @@
 # FundMe Solidity Project
 
+![Tests badge](https://github.com/gervaiscodes/cyfrin-foundry-fund-me/actions/workflows/test.yml/badge.svg)
+
 ## Overview
 
 FundMe is a Solidity-based crowdfunding smart contract project utilizing Chainlink oracles to fetch price data for accurate ETH to USD conversion. The project is structured with Foundry for smart contract development, testing, and deployment.
